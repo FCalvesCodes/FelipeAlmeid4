@@ -14,6 +14,6 @@ Unicus</a>.
  - C#, Javascript, HTML, CSS e LESS
  - Conceitos web, mobile e desktop
  
- ## Ferramentas utilizadas :wrench:
+ ## Ferramentas que já utilizei :wrench:
  - React, React Native
  - Windows Forms e ASP.NET Core
