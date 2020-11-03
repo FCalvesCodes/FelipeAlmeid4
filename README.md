@@ -12,8 +12,9 @@ Unicus</a>.
 
 ## Atualmente estudando :books:
  - C#, Javascript, HTML, CSS e LESS
- - Conceitos web, mobile e desktop
- 
- ## Ferramentas que já utilizei :wrench:
  - React, React Native
  - Windows Forms e ASP.NET Core
+ - Conceitos web, mobile e desktop
+ - Domain Driven Design
+ 
+
