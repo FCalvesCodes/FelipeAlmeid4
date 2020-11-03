@@ -5,7 +5,7 @@
 Atualmente sou **Desenvolvedor Júnior** na empresa <a href="https://unicus.net.br/">
 Unicus</a>.
 
-## Projetos que participei
+## Projetos que participei :muscle:
 
   - <a href="https://unicuspet.com.br/">Unicus Pet</a>
   - <a href="https://yurys.com.br/">Yurys</a>
