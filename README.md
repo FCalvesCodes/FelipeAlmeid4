@@ -10,7 +10,7 @@ Unicus</a>.
   - <a href="https://unicuspet.com.br/">Unicus Pet</a>
   - <a href="https://yurys.com.br/">Yurys</a>
 
-## Atualmente estudando :books:
+## Estudando :books:
  - C#, Javascript, HTML, CSS e LESS
  - React, React Native
  - Windows Forms e ASP.NET Core
