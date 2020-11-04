@@ -11,10 +11,10 @@ Unicus</a>.
   - <a href="https://yurys.com.br/">Yurys</a>
 
 ## Estudando :books:
+ - Domain Driven Design
  - C#, Javascript, HTML, CSS e LESS
  - React, React Native
  - Windows Forms e ASP.NET Core
  - Conceitos web, mobile e desktop
- - Domain Driven Design
  
 
