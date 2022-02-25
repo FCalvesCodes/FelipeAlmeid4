@@ -2,7 +2,7 @@
   
 ## Olá 👋
 
-Atualmente sou **Desenvolvedor Júnior** na empresa <a href="https://unicus.net.br/">
+Atualmente sou **Desenvolvedor Pleno** na empresa <a href="https://unicus.net.br/">
 Unicus</a>.
 
 ## Projetos que participo :muscle:
