@@ -7,8 +7,8 @@ Olá, sou um entusiasta novo na área de tecnologia, minha jornada iniciou em 20
 ## Projetos que participo :muscle:
 
   - <a href="https://unicuspet.com.br/">Unicus Pet</a> (C#, Windows Forms, NHibernate, SQL Server, DDD)
-  - <a href="https://yurys.com.br/">Yurys</a> (C#, ASP.NET Core, NHibernate, PostgreSQL DDD, React, Redux)
-  - Kuidare (C#, ASP.NET Core, NHibernate, PostgreSQL DDD, React, React Native, Redux)
+  - <a href="https://yurys.com.br/">Yurys</a> (C#, ASP.NET Core, NHibernate, PostgreSQL, DDD, React, Redux)
+  - Kuidare (C#, ASP.NET Core, NHibernate, PostgreSQL, DDD, React, React Native, Redux)
 
 ## Estudando :books:
  - Domain Driven Design
