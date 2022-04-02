@@ -2,7 +2,7 @@
   
 ## Olá 👋
 
-Olá, sou um entusiasta novo na área de tecnologia, minha jornada iniciou em 2019 quando entrei para um estágio atuando na documentação de software e QA adquirido uma grande bagagem de conhecimento. Hoje eu estou na área de desenvolvimento como desenvolvedor .NET pleno adquirindo experiência com várias tecnlogias do mercado atual.
+Olá, sou um entusiasta novo na área de tecnologia, minha jornada iniciou em 2019 quando entrei para um estágio atuando na documentação de software e QA adquirido uma grande bagagem de conhecimento. Hoje eu estou na área de desenvolvimento como desenvolvedor .NET.
 
 ## Projetos que participo :muscle:
 
